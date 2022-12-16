@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivakant shukla</h1>
 <h3 align="center">A passionate softwere engineer from India</h3>
-
+<img align="right" alt="coding" width="400"src=" https://user-images.githubusercontent...
+"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivakant-shukla&label=Profile%20views&color=0e75b6&style=flat" alt="shivakant-shukla" /> </p>
 
 - 📫 How to reach me **ss2205788@gmail.com**
